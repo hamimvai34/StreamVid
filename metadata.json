@@ -1,0 +1,6 @@
+{
+  "name": "StreamVault",
+  "description": "Distraction-free curated YouTube channel video and audio hub with offline Admin management, strict whitelisted playback, Play as Audio mode, and Gemini 4 Argon High-Thinking analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

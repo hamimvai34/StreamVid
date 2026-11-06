@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StreamVault</string>
+    <string name="search_placeholder">Search videos or approved channels…</string>
+    <string name="admin_mode_label">Admin</string>
+    <string name="user_mode_label">Home</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="listen_audio">Play as Audio</string>
+    <string name="add_channel">Add Channel</string>
+    <string name="sync_all">Sync Channels</string>
+    <string name="whitelisted_notice">Showing only approved channel videos. Background audio enabled.</string>
+</resources>
